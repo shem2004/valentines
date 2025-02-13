@@ -21,4 +21,4 @@ This project is built using simple yet powerful web technologies:
 
 ## How to View
 
-To experience "Will You Be My Valentine?", simply visit [https://shem2004.github.io/valentine.github.io/](https://github.io/shem2004/valentines/tree/main)) from any modern web browser.
+To experience "Will You Be My Valentine?", simply visit [https://shem2004.github.io/valentine.github.io/](https://github.com/shem2004/valentines.git)) from any modern web browser.
